@@ -1,0 +1,26 @@
+{
+  "name": "material-color-vars",
+  "version": "0.1",
+  "description": "Material Colors, as css vars",
+  "author": "bensales",
+  "style": "css/material-colors.css",
+  "main": "css/material-colors.css",
+  "files": [
+    "css"
+  ],
+  "repository": "twoism-dev/material-color-vars",
+  "keywords": [
+    "css",
+    "material"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "contributors": [
+    {
+      "name": "ben sales",
+      "email": "ben@twoism.co.uk"
+    }
+  ],
+  "scripts": {},
+  "dependencies": {}
+}
