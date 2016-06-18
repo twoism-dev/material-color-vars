@@ -1,10 +1,10 @@
 {
   "name": "material-color-vars",
-  "version": "0.1",
+  "version": "0.2.0",
   "description": "Material Colors, as css vars",
   "author": "bensales",
-  "style": "css/material-colors.css",
-  "main": "css/material-colors.css",
+  "style": "css/index.css",
+  "main": "css/index.css",
   "files": [
     "css"
   ],
