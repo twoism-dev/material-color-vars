@@ -1,6 +1,6 @@
 {
   "name": "material-color-vars",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Material Colors, as css vars",
   "author": "bensales",
   "style": "css/index.css",
